@@ -2,7 +2,7 @@ public class LogNo {
 
     public Estado pai;
     public Estado estado;
-    public String status; //gerando expandido ou avançado
+    public String status; 
 
     public LogNo(Estado pai, Estado estado, String status) {
         this.pai = pai;
